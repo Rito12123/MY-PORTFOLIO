@@ -15,7 +15,7 @@ const projects = [
         id:2,
         title:"StreamFlex",
         description:"Netflix homepage Clone using Html and CSS",
-        image:"/projects/picture2.png",
+        image:"/projects/picture3.jpeg",
         tags:["Html,CSS"],
         demoUrl:"netflix-homepage-clone-delta.vercel.app",
         GithubUrl:"https://github.com/Rito12123"
